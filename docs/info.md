@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Player 1, 2, 3 and 4 are connected to NOR gates, which are connected to DSR Flip Flops, the flip flops outputs go through OR gates and back to the NOR gates such that if any of DSR Flip Flops are High the NORs output Low.
 
 ## How to test
 
